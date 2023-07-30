@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohansunwar5
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning fullstack development and tring to contribute in open source
+- 🌱 I’m currently learning fullstack development and trying to contribute in open source
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me through github
 
